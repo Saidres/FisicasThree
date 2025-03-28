@@ -3,54 +3,54 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 1176,
+      "count": 1242,
       "max": [
-        117.62770080566406,
-        51.80870056152344,
-        67.09700012207031
+        -4.508399963378906,
+        -14.683300018310547,
+        46.13930130004883
       ],
       "min": [
-        -117.4375,
-        -51.70240020751953,
-        -0.22100000083446503
+        -114.99459838867188,
+        -63.32350158691406,
+        0.018799999728798866
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 14112,
+      "byteOffset": 14904,
       "componentType": 5126,
-      "count": 1176,
+      "count": 1242,
       "max": [
-        0.9902216792106628,
         1.0,
-        0.9999061822891235
+        1.0,
+        0.9999973773956299
       ],
       "min": [
-        -0.9965829849243164,
         -1.0,
-        -0.9999898672103882
+        -1.0,
+        -0.9999923706054688
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 1176,
+      "count": 1242,
       "max": [
-        0.9878000020980835,
-        0.9951000213623047
+        0.9855999946594238,
+        0.9944000244140625
       ],
       "min": [
-        0.009499999694526196,
-        0.012199999764561653
+        0.029100000858306885,
+        0.03500000014901161
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 4500,
+      "count": 4572,
       "type": "SCALAR"
     }
   ],
@@ -58,31 +58,31 @@
     "extras": {
       "author": "slowpoly (https://sketchfab.com/slowpoly)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/tesla-model-s-plaid-2023-aec912ed367b4aebacc8676922f42beb",
-      "title": "Tesla model S Plaid 2023"
+      "source": "https://sketchfab.com/3d-models/mercedes-benz-g-class-free-download-975f1f41e7394703b1be23b67497dc90",
+      "title": "Mercedes-Benz G-Class Free Download"
     },
-    "generator": "Sketchfab-16.15.0",
+    "generator": "Sketchfab-15.25.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 18000,
+      "byteLength": 18288,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 9408,
-      "byteOffset": 18000,
+      "byteLength": 9936,
+      "byteOffset": 18288,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 28224,
-      "byteOffset": 27408,
+      "byteLength": 29808,
+      "byteOffset": 28224,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
@@ -90,40 +90,27 @@
   ],
   "buffers": [
     {
-      "byteLength": 55632,
+      "byteLength": 58032,
       "uri": "scene.bin"
     }
   ],
-  "extensionsUsed": [
-    "KHR_materials_specular"
-  ],
   "images": [
     {
-      "uri": "textures/767c8b7b_1260_4325_b83f_f635800d9059_Standard00E280_baseColor.png"
+      "uri": "textures/Standard00FF80_baseColor.png"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
       "emissiveFactor": [
-        0.5,
-        0.5,
-        0.5
+        0.6,
+        0.6,
+        0.6
       ],
       "emissiveTexture": {
         "index": 0
       },
-      "extensions": {
-        "KHR_materials_specular": {
-          "specularColorFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularFactor": 0.07161926588728651
-        }
-      },
-      "name": "767c8b7b_1260_4325_b83f_f635800d9059_Standard00E280",
+      "name": "Standard00FF80",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
@@ -179,7 +166,7 @@
       "children": [
         2
       ],
-      "name": "2e6acfb837fa495687fc45736746c77f.obj.cleaner.materialmerger.gles"
+      "name": "dd6295cc2d7f49518b375c751562c63e.obj.cleaner.materialmerger.gles"
     },
     {
       "mesh": 0,

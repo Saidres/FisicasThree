@@ -1,6 +1,6 @@
 Model Information:
-* title:	Tesla model S Plaid 2023
-* source:	https://sketchfab.com/3d-models/tesla-model-s-plaid-2023-aec912ed367b4aebacc8676922f42beb
+* title:	Mercedes-Benz G-Class Free Download
+* source:	https://sketchfab.com/3d-models/mercedes-benz-g-class-free-download-975f1f41e7394703b1be23b67497dc90
 * author:	slowpoly (https://sketchfab.com/slowpoly)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Tesla model S Plaid 2023" (https://sketchfab.com/3d-models/tesla-model-s-plaid-2023-aec912ed367b4aebacc8676922f42beb) by slowpoly (https://sketchfab.com/slowpoly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Mercedes-Benz G-Class Free Download" (https://sketchfab.com/3d-models/mercedes-benz-g-class-free-download-975f1f41e7394703b1be23b67497dc90) by slowpoly (https://sketchfab.com/slowpoly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
